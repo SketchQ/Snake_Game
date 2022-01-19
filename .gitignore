@@ -28,5 +28,3 @@ hs_err_pid*
 # Folders to ignore
 **\bin\**
 **\.vscode\**
-*\bin\resources\**
-bin\resources\** 
